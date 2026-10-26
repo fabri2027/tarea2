@@ -1,0 +1,51 @@
+body{
+    background-image: url(../imagenes/descarga.jpg);
+}
+header{
+    background-color: rgb(90, 219, 219);
+    padding: 5px;
+}
+footer{
+    background-color:rgb(173, 37, 201);
+    padding: 5px;
+}
+nav{
+    background-color: palevioletred;
+    padding: 5px;
+    text-align: left;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.contenido{
+    background-color: violet;
+    display: flex;
+    padding: 5px;
+    margin: 2px;
+
+}
+section{
+    background-color: rgb(136, 71, 197);
+    padding: 5px;
+    margin: 5px;
+    width: 500px;
+    height: 200px;
+    
+}
+*{
+    text-align: center;
+    margin: 10px;
+}
+input{
+    background-color: aqua;
+    width: 400;
+    height: 100;
+
+}
+label{
+    color: red;
+}
+button{
+    background-color: aqua;
+}
